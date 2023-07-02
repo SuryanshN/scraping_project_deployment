@@ -10,3 +10,5 @@ The main objective of a web scraping project is to automate the process of extra
 4.Research and analysis: Gathering data from research papers, scientific journals, or academic websites for analysis, data visualization, or hypothesis testing.
 
 5. Monitoring and tracking: Scraping data from websites to track price changes, stock market updates, or weather forecasts.
+
+6. project link : http://reviewscrap-env.eba-xmv6j4ih.ap-northeast-1.elasticbeanstalk.com/
